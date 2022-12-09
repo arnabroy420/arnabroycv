@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    color: #40514E;
+
+}
+h1{font-family: 'Sacramento', cursive;
+    margin: 50px auto 2.5rem;
+    front-family: 'sacramento',cursive;
+    font-size: 4.6875rem;
+    color: #2c786c;
+}
+h2{font-family: 'Montserrat', sans-serif;
+    font-family: 'Monntserrat', sans-serif;
+    font-size: 2.5rem;
+color: #2c786c;
+padding-bottom: 16px;
+}
+.top-container{
+    background-color: #e4f9ff;
+    position:relative;
+    padding: 99px;
+
+}
+.middle-container{
+    padding: 100px 0;
+}
+.top-cloud{
+    position: absolute;
+    right:300px ;
+    top:40px
+}
+.bottom-cloud{
+    position: absolute;
+    left:250px ;
+    bottom:307px;
+}
+.profile-img{
+    width: 152px;
+    height: 153px;
+    border-radius: 50%;
+
+}
+.intro{
+    width: 50%;
+    margin: 10px auto;
+    line-height: 2;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    margin: 82px auto;
+}
+.skill-1{
+    width: 142px ;
+    height: 144px;
+
+}
+.skill-2{
+    width: 142px;
+height: 144px;}
+.skill-3{
+    width: 142px;
+    height: 144px;
+}
+.skill-row{
+    width:  25%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.skill-1{
+    width: 25%;
+    float: left;
+    margin-right: 80px;
+
+}
+.skill-2{
+    width: 25%;
+    float: right;
+margin-right: 80px;
+}
+.skill-3{
+    width: 25%;
+    float: left;
+    margin-right: 80px;
+}
+.contact-message{
+    width: 50%;
+    margin: 43px auto;
+    line-height: 2;
+
+}.buttom-container{
+    background-color: #2c786c;
+    margin: 0;
+    padding: 50px 0 20px;
+}
+.footer-link{
+    text-decoration: none;
+    font-family: 'sacramento', cursive;
+    color: rgb(13, 128, 128);
+    margin: 25px 22px;
+    font-size: 30px;
+        
+}
+.copyrights{
+    color: rgb(228, 192, 192);
+    font-size: 0.75rem;
+    padding:20px 0;
+}
+  /* Button css (from css button generator site) */
+  /* https://cssbuttongenrator.com/  */
+  
+.buttonClass {
+    font-size:15px;
+    font-family:Arial;
+    padding: 11px 28px;
+    border-width:0px;
+    color:#fff;
+    border-color:#18ab29;
+    font-weight:bold;
+    border-top-left-radius:28px;
+    border-top-right-radius:28px;
+    border-bottom-left-radius:28px;
+    border-bottom-right-radius:28px;
+    box-shadow: 1px -13px 12px 6px #fff;
+    text-shadow: 1px 1px 0px rgba(53, 110, 45, 1);
+    background:rgba(22, 168, 61, 1);
+  }
+  
+  
+  .buttonClass:hover {
+    background: #eff8ea
+  }
+  .footer-link:hover{
+    color: rgb(230, 248, 213);
+  }
+                
